@@ -33,7 +33,7 @@ Navigate to base directory and open with VSCode:
 Use `Ctrl+Shift+P` and `Remote-Container: Reopen in Container`.
 
 ## How to Cite this project
-The paper presenting the general database schema will be published at the ICMVA '24 (already accepted).
+The paper presenting the general database schema will be published at the ICMVA '24 (already accepted).<br>
 Please cite as
 ```
 @inproceedings{wallner2024,
