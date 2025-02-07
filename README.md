@@ -36,20 +36,20 @@ Use `Ctrl+Shift+P` and `Remote-Container: Reopen in Container`.
 The paper presenting the general database schema will be published at the ICMVA '24 (already accepted).<br>
 Please cite as
 ```
-@inproceedings{wallner2024,
-  author = {Wallner, Marco and Schörghuber, Matthias and Hofstätter, Markus},
-  title = {A Unified Database Schema for Geometric and Semantic Data: Continuous Volumetric Stocktaking in Gravel Quarries},
-  year = {2024},
-  isbn = {TODO},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {TODO},
-  doi = {TODO},
-  pages = {TODO},
-  numpages = {TODO},
-  keywords = {spatial database, geometric and semantic data, application, volume estimate, continuous stocktaking},
-  location = {Singapore, Singapore},
-  series = {ICMVA '24}
+@inproceedings{10.1145/3653946.3653959,
+author = {Wallner, Marco and Sch\"{o}rghuber, Matthias and Hofst\"{a}tter, Markus},
+title = {A Unified Database Schema for Geometric and Semantic Data: Continuous Volumetric Stocktaking in Gravel Quarries},
+year = {2024},
+isbn = {9798400716553},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3653946.3653959},
+doi = {10.1145/3653946.3653959},
+pages = {84–91},
+numpages = {8},
+keywords = {application, continuous stocktaking, geometric and semantic data, spatial database, volume estimate},
+location = {Singapore, Singapore},
+series = {ICMVA '24}
 }
 ```
 
